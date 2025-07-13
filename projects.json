@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Sales Reporting for Travel Industry Clients",
+    "description": "Extracted sales and pricing data from travel websites (Thomas Cook, Etihad, Avis) using web crawling techniques. Analyzed and visualized sales trends in Excel to support reporting on package performance and pricing strategy."
+  },
+  {
+    "title": "HR Analytics",
+    "description": "The purpose of the project was to find out the job retention using various analytical aspects. Used MySQL for database creation and table creation. Used Excel for data cleaning and arrangement. Used Tableau and Power BI for data visualization and creating dashboards."
+  }
+]
