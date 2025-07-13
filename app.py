@@ -7,7 +7,8 @@ st.set_page_config(page_title = "Data Analytics Portfolio",
                    page_icon="📊",
                    layout="wide")
 #Load Image
-profile_pic = Image.open(r"C:\Users\Prajwal\Desktop\Python codes\Python libraries\my_portfolio\Image\PrajwalJadhaoPhoto.jpg")
+profile_pic = Image.open("Image/PrajwalJadhaoPhoto.jpg")
+
 
 #Load projects data
 with open(r"C:\Users\Prajwal\Desktop\Python codes\Python libraries\my_portfolio\projects.json") as f:
