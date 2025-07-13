@@ -11,7 +11,7 @@ profile_pic = Image.open("Image/PrajwalJadhaoPhoto.jpg")
 
 
 #Load projects data
-with open(r"C:\Users\Prajwal\Desktop\Python codes\Python libraries\my_portfolio\projects.json") as f:
+with open("projects.json") as f:
     projects = json.load(f) 
 
 #Main title and Intro
